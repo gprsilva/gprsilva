@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gprsilva&layout=compact&hide_border=true&title_color=ff0000&text_color=ff0000&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gprsilva&bg_color=000000&color=15e5a6&line=ff5252&point=ff0000c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gprsilva&bg_color=000000&color=ff5252&line=ff5252&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gprsilva&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
