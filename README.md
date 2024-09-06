@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=024dbd&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Guilherme+Pereira;I'm+16+years+old;I+am+from+São+Paulo,+SP;I+study+analysis+and+systems+development+at+SENAI;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=024dbd&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Guilherme+Pereira;I'm+16+years+old;I+am+from+São+Paulo,+SP;I+study+analysis+and+systems+development+at+SENAI;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gprsilva&show_icons=true&count_private=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ff0000&bg_color=0d1117" alt="Guilherme Pereira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gprsilva&layout=compact&hide_border=true&title_color=ff0000&text_color=ff0000&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gprsilva&show_icons=true&count_private=true&hide_border=true&title_color=024dbd&icon_color=024dbd&text_color=024dbd&bg_color=024dbd" alt="Guilherme Pereira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gprsilva&layout=compact&hide_border=true&title_color=024dbd&text_color=024dbd&bg_color=024dbd" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gprsilva&bg_color=000000&color=ff5252&line=ff5252&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gprsilva&bg_color=000000&color=ff5252&line=ff5252&point=024dbd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
 <a href="https://www.instagram.com/_gprsilva/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
@@ -56,6 +56,6 @@ Here are some ideas to get you started:
 <br></div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=024dbd&height=120&section=footer"/>
 
 
