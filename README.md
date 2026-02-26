@@ -1,97 +1,49 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:024dbd&height=200&section=header&text=%3C%20Guilherme%20Pereira%20%2F%3E&fontSize=40&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20in%20progress%20%7C%20ADS%20%40%20SENAI&descAlignY=58&descAlign=50&descSize=16&descColor=024dbd"/>
+<!--
+███████████████████████████████████████████████████████
+  GUILHERME PEREIRA — GITHUB PROFILE README v3.0
+  Aesthetic: Dark Terminal / Hacker Green
+  All widgets verified and stable as of 2025
+███████████████████████████████████████████████████████
+-->
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&random=false&width=700&lines=Inicializando+sistema...+%5BOK%5D;Carregando+Guilherme+Pereira...+%5BOK%5D;17+anos+%7C+São+Paulo%2C+SP+🇧🇷;Estudante+de+ADS+no+SENAI+🎓;Desenvolvedor+Web+Full+Stack+em+formação;Python+%26+JavaScript+são+minha+língua+nativa;Build.+Learn.+Repeat.)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║                   > SOBRE O SISTEMA                      ║
-╠══════════════════════════════════════════════════════════╣
-║  Nome     :  Guilherme Pereira                           ║
-║  Versão   :  17 anos                                     ║
-║  Origem   :  São Paulo, SP  BR                           ║
-║  Curso    :  ADS @ SENAI                                 ║
-║  Foco     :  Desenvolvimento Web Full Stack              ║
-║  Status   :  [ APRENDENDO E CONSTRUINDO ] ███████░░ 70%  ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-<div align="center">
-
-## `> JORNADA DE APRENDIZADO`
-
-</div>
-
-```python
-class DevJourney:
-    def __init__(self):
-        self.nome       = "Guilherme Pereira"
-        self.foco       = "Full Stack Web Development"
-        self.aprendendo = ["JavaScript Avancado", "Node.js", "React", "Python"]
-        self.dominando  = ["HTML5", "CSS3", "Git", "Bootstrap", "Figma"]
-        self.ferramentas = ["VS Code", "GitHub", "Windows", "MS Office"]
-        self.objetivo   = "Construir aplicacoes web completas do zero"
-
-    def status(self):
-        return "Cada linha de codigo e um passo a frente."
-
-guilherme = DevJourney()
-print(guilherme.status())
-# Output: Cada linha de codigo e um passo a frente.
-```
-
----
-
-<div align="center">
-
-## `> STACK DE TECNOLOGIAS`
-
-### 🔥 Estudando Ativamente
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 🛠️ Conhecimento Técnico
-
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
-
-### ⚙️ Ferramentas
-
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)
-![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=0078D6)
-
-</div>
-
----
-
-<div align="center">
-
-## `> ESTATÍSTICAS DO SISTEMA`
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gprsilva&show_icons=true&count_private=true&hide_border=true&title_color=00ff41&icon_color=024dbd&text_color=00ff41&bg_color=0d1117" alt="Guilherme stats"/>
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gprsilva&layout=compact&hide_border=true&title_color=00ff41&text_color=00ff41&bg_color=0d1117"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:011a0e,100:0d1117&height=220&section=header&text=gprsilva&fontSize=72&fontColor=00ff41&fontAlignY=45&animation=twinkling&desc=◈%20Full%20Stack%20Web%20Developer%20in%20Progress%20◈&descSize=14&descColor=4a9d5f&descAlignY=68"/>
 
 <br/>
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=gprsilva&theme=matrix&hide_border=true&background=0d1117&stroke=00ff41&ring=024dbd&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=024dbd"/>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=15&duration=2800&pause=1200&color=00FF41&background=0D111700&center=true&vCenter=true&random=false&width=580&height=28&lines=%24+whoami+%E2%86%92+Guilherme+Pereira%2C+17%2C+São+Paulo;%24+cat+status.txt+%E2%86%92+[APRENDENDO+E+CONSTRUINDO];%24+echo+%24FOCUS+%E2%86%92+Full+Stack+Web+Development;%24+python+main.py+%E2%86%92+Building+the+future...+%E2%96%88)](https://github.com/gprsilva)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+```bash
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   ██████╗ ██████╗ ██████╗ ███████╗██╗██╗               │
+│  ██╔════╝ ██╔══██╗██╔══██╗██╔════╝██║██║               │
+│  ██║  ███╗██████╔╝██████╔╝███████╗██║██║               │
+│  ██║   ██║██╔═══╝ ██╔══██╗╚════██║╚═╝╚═╝               │
+│  ╚██████╔╝██║     ██║  ██║███████║██╗██╗               │
+│   ╚═════╝ ╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝╚═╝               │
+│                                                         │
+│  > USER    : Guilherme Pereira                          │
+│  > AGE     : 17 years                                   │
+│  > ORIGIN  : São Paulo, SP — Brazil                     │
+│  > COURSE  : ADS @ SENAI                                │
+│  > FOCUS   : Full Stack Web Development                 │
+│  > STACK   : Python · JS · Node.js · React              │
+│                                                         │
+│  > PROGRESS : [████████████░░░░░░░░] 60% LOADED        │
+│  > STATUS  : ONLINE ● BUILDING ● LEARNING               │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -99,9 +51,28 @@ print(guilherme.status())
 
 <div align="center">
 
-## `> ATIVIDADE DE COMMITS`
+## ◈ ATUALMENTE APRENDENDO
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gprsilva&bg_color=0d1117&color=00ff41&line=024dbd&point=00ff41&area=true&hide_border=true&area_color=024dbd)
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  $ cat learning_path.log                                     ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  [▓▓▓▓▓▓▓▓▓░░]  JavaScript Avançado .............. 80%      ║
+║  [▓▓▓▓▓▓▓░░░░]  Python ........................... 70%      ║
+║  [▓▓▓▓▓░░░░░░]  Node.js .......................... 55%      ║
+║  [▓▓▓▓░░░░░░░]  React ............................ 40%      ║
+║  [▓▓▓▓▓▓▓▓▓▓▓]  HTML5 + CSS3 ................... 100%      ║
+║  [▓▓▓▓▓▓▓▓▓▓░]  Git & GitHub ..................... 90%      ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -109,23 +80,83 @@ print(guilherme.status())
 
 <div align="center">
 
-## `> SNAKE COMENDO MINHAS CONTRIBUICOES`
+## ◈ STACK
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**`// DESENVOLVIMENTO ATIVO`**
+
+<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=javascript,python,nodejs,react&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+**`// FUNDAÇÃO`**
+
+<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,figma&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+**`// FERRAMENTAS`**
+
+<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,windows&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+<div align="center">
+
+## ◈ MÉTRICAS
+
+<br/>
+
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=gprsilva&show_icons=true&count_private=true&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=8b949e&bg_color=0d1117&cache_seconds=1800" />
+&nbsp;
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gprsilva&layout=compact&hide_border=true&title_color=00ff41&text_color=8b949e&bg_color=0d1117&langs_count=6&cache_seconds=1800" />
+
+<br/><br/>
+
+<img width="56%" src="https://streak-stats.demolab.com?user=gprsilva&theme=dark&hide_border=true&background=0d1117&stroke=00ff4120&ring=00ff41&fire=00ff41&currStreakNum=00ff41&sideNums=8b949e&currStreakLabel=00ff41&sideLabels=8b949e&dates=4a5568&border=00ff4120" />
+
+</div>
+
+---
+
+<div align="center">
+
+## ◈ ATIVIDADE
+
+<br/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gprsilva&bg_color=0d1117&color=00ff41&line=00ff4160&point=00ff41&area=true&area_color=00ff4115&hide_border=true&radius=4)
+
+</div>
+
+---
+
+<div align="center">
+
+## ◈ SNAKE
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gprsilva/gprsilva/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gprsilva/gprsilva/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/gprsilva/gprsilva/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/gprsilva/gprsilva/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
-</div>
-
----
-
-<div align="center">
-
-## `> PROJETOS`
-
-> 🔗 **[Ver todos os projetos](https://github.com/gprsilva?tab=repositories)**
+> ⚙️ Ative a snake seguindo as instruções do arquivo `snake-workflow.yml`
 
 </div>
 
@@ -133,27 +164,50 @@ print(guilherme.status())
 
 <div align="center">
 
-## `> TROFEUS`
-
-<img src="https://github-profile-trophy.vercel.app/?username=gprsilva&theme=matrix&row=1&no-bg=true&column=6&no-frame=true&margin-w=4"/>
-
-</div>
-
----
-
-<div align="center">
-
-> *"Primeiro, resolva o problema. Então, escreva o código."*
-> — John Johnson
-
----
-
-[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/_gprsilva/)
+## ◈ PROJETOS
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=gprsilva&color=00ff41&style=for-the-badge&label=VISITAS+AO+PERFIL)
+`→` **[Ver todos os repositórios](https://github.com/gprsilva?tab=repositories)**
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:024dbd,100:000000&height=120&section=footer&animation=fadeIn"/>
+---
+
+<div align="center">
+
+## ◈ TROFÉUS
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=gprsilva&theme=matrix&row=1&column=6&no-frame=true&no-bg=true&margin-w=8"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<br/>
+
+```
+"Programs must be written for people to read,
+ and only incidentally for machines to execute."
+                               — Harold Abelson
+```
+
+<br/>
+
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00ff41&labelColor=0d1117)](https://www.instagram.com/_gprsilva/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117)](https://github.com/gprsilva)
+
+<br/>
+
+![Visitors](https://komarev.com/ghpvc/?username=gprsilva&style=flat-square&color=00ff41&label=profile+views&labelColor=0d1117)
+
+<br/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:011a0e,100:0d1117&height=100&section=footer&animation=twinkling"/>
