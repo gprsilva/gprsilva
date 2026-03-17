@@ -25,21 +25,13 @@
 ```bash
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
-│   ██████╗ ██████╗ ██████╗ ███████╗██╗██╗               │
-│  ██╔════╝ ██╔══██╗██╔══██╗██╔════╝██║██║               │
-│  ██║  ███╗██████╔╝██████╔╝███████╗██║██║               │
-│  ██║   ██║██╔═══╝ ██╔══██╗╚════██║╚═╝╚═╝               │
-│  ╚██████╔╝██║     ██║  ██║███████║██╗██╗               │
-│   ╚═════╝ ╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝╚═╝               │
-│                                                         │
 │  > USER    : Guilherme Pereira                          │
-│  > AGE     : 17 years                                   │
+│  > AGE     : 18 years                                   │
 │  > ORIGIN  : São Paulo, SP — Brazil                     │
-│  > COURSE  : ADS @ SENAI                                │
+│  > COURSE  : DEV @ SENAI "Morvan Figueiredo" -✓        |
+|              Eng. Software @ FIAP -⏳                  │
 │  > FOCUS   : Full Stack Web Development                 │
-│  > STACK   : Python · JS · Node.js · React              │
-│                                                         │
-│  > PROGRESS : [████████████░░░░░░░░] 60% LOADED        │
+   │  > STACK   : Python · JS · Node.js · React              │   
 │  > STATUS  : ONLINE ● BUILDING ● LEARNING               │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
@@ -47,34 +39,7 @@
 
 </div>
 
----
 
-<div align="center">
-
-## ◈ ATUALMENTE APRENDENDO
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  $ cat learning_path.log                                     ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  [▓▓▓▓▓▓▓▓▓░░]  JavaScript Avançado .............. 80%      ║
-║  [▓▓▓▓▓▓▓░░░░]  Python ........................... 70%      ║
-║  [▓▓▓▓▓░░░░░░]  Node.js .......................... 55%      ║
-║  [▓▓▓▓░░░░░░░]  React ............................ 40%      ║
-║  [▓▓▓▓▓▓▓▓▓▓▓]  HTML5 + CSS3 ................... 100%      ║
-║  [▓▓▓▓▓▓▓▓▓▓░]  Git & GitHub ..................... 90%      ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
 
 ---
 
@@ -174,17 +139,7 @@
 
 ---
 
-<div align="center">
 
-## ◈ TROFÉUS
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=gprsilva&theme=matrix&row=1&column=6&no-frame=true&no-bg=true&margin-w=8"/>
-
-</div>
-
----
 
 <div align="center">
 
@@ -198,9 +153,19 @@
 
 <br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00ff41&labelColor=0d1117)](https://www.instagram.com/_gprsilva/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117)](https://github.com/gprsilva)
+<p align="center">
+  <a href="https://www.instagram.com/_gprsilva/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-0d1117?style=for-the-badge&logo=instagram&logoColor=00ff41"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/guilherme-perei-raruiz-da-silva-5ab5352bb/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/gprsilva">
+    <img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=00ff41"/>
+  </a>
+</p>
 
 <br/>
 
