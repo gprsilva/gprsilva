@@ -6,13 +6,13 @@
 ███████████████████████████████████████████████████████
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:011a0e,100:0d1117&height=220&section=header&text=gprsilva&fontSize=72&fontColor=00ff41&fontAlignY=45&animation=twinkling&desc=◈%20Full%20Stack%20Web%20Developer%20in%20Progress%20◈&descSize=14&descColor=4a9d5f&descAlignY=68"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:011a0e,100:0d1117&height=220&section=header&text=gprsilva&fontSize=72&fontColor=00ff41&fontAlignY=45&animation=twinkling&desc=◈%20Full%20Stack%20Web%20Developer%20|%20Eng.%20Software%20in%20Progress%20◈&descSize=14&descColor=4a9d5f&descAlignY=68"/>
 
 <br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=15&duration=2800&pause=1200&color=00FF41&background=0D111700&center=true&vCenter=true&random=false&width=580&height=28&lines=%24+whoami+%E2%86%92+Guilherme+Pereira%2C+17%2C+São+Paulo;%24+cat+status.txt+%E2%86%92+[APRENDENDO+E+CONSTRUINDO];%24+echo+%24FOCUS+%E2%86%92+Full+Stack+Web+Development;%24+python+main.py+%E2%86%92+Building+the+future...+%E2%96%88)](https://github.com/gprsilva)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=15&duration=2800&pause=1200&color=00FF41&background=0D111700&center=true&vCenter=true&random=false&width=580&height=28&lines=%24+whoami+%E2%86%92+Guilherme+Pereira%2C+18%2C+São+Paulo;%24+cat+status.txt+%E2%86%92+[APRENDENDO+E+CONSTRUINDO];%24+echo+%24FOCUS+%E2%86%92+Full+Stack+Web+Development;%24+python+main.py+%E2%86%92+Building+the+future...+%E2%96%88)](https://github.com/gprsilva)
 
 </div>
 
